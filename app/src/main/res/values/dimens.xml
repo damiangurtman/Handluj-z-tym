@@ -1,0 +1,11 @@
+<resources>
+
+    <dimen name="space_medium">20dp</dimen>
+    <dimen name="space_large">70dp</dimen>
+    <dimen name="space_huge">100dp</dimen>
+
+    <dimen name="elevation">2dp</dimen>
+
+    <dimen name="corners">5dp</dimen>
+
+</resources>

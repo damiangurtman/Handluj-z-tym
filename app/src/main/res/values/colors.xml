@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="dove">#666</color>
+    <color name="pale">#446d767f</color>
+    <color name="haze">#eff1f1</color>
+
+    <color name="white">#fff</color>
+
+</resources>

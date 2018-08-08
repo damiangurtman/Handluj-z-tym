@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Deal with it</string>
+
+    <string name="dashboard_map_title">Map</string>
+    <string name="dashboard_sundays_title">Sundays</string>
+    <string name="open_shops">Open shops</string>
+
+</resources>

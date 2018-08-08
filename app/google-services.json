@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "306266728962",
+    "firebase_url": "https://prm2-203700.firebaseio.com",
+    "project_id": "prm2-203700",
+    "storage_bucket": "prm2-203700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306266728962:android:4056db41a115bb6a",
+        "android_client_info": {
+          "package_name": "com.example.dams.handlujztym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306266728962-c8mhlvr3r19u8ieerdh8sl284gmvn4rf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "306266728962-c8mhlvr3r19u8ieerdh8sl284gmvn4rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuOuGGk4Hm82d3nHOyVA7Zwx2ngbu1DzM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

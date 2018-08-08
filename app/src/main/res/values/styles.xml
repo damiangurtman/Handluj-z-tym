@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/haze</item>
+        <item name="colorPrimaryDark">@color/haze</item>
+        <item name="colorAccent">@color/haze</item>
+        <item name="android:windowBackground">@color/haze</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/haze</item>
+    </style>
+
+</resources>
